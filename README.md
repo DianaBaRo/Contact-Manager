@@ -1,4 +1,4 @@
-# contacManager 
+# Contact Manager 
 
 HTML, JS 
 
